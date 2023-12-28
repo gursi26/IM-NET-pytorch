@@ -17,3 +17,7 @@ https://github.com/gursi26/IM-NET-pytorch/assets/75204369/dd19d35d-853b-4cd4-887
 
 ## Super-resolution + interpolation
 
+We can also sample outputs at a higher resolution than the training data. Here is an MNIST interpolation at 128x128 pixels instead of the regular 28x28. This looks significantly less pixelated than the above interpolations.
+
+https://github.com/gursi26/IM-NET-pytorch/assets/75204369/878ac089-0e35-48b5-a263-4933a937a3a3
+
